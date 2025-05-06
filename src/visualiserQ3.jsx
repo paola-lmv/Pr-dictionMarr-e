@@ -8,6 +8,8 @@ function VisualiserQ3({date}){
   console.log("Q3")
   const [dateDebut, setDateDebut] = useState(date);
   const [dateFin, setDateFin] = useState("");
+  const [givenDate, setGivenDate] = useState("");
+  const [formattedDate, setFormattedDate] = useState("");
     console.log("dateDebut",dateDebut)
     console.log("dateFin",dateFin)
     useEffect(() => {
@@ -59,8 +61,35 @@ function VisualiserQ3({date}){
     setDateDebut(FormatDate(rangechange.start))
     setDateFin(FormatDate(rangechange.end))
   }
+  const handleDateChange = (e) => {
+    setGivenDate(e.target.value);
+  };
+  const handleSubmit = () => {
+    console.log("handleSubmit")
+    const dateRegex = /^([0-2][0-9]|3[01])\/([0][1-9]|1[0-2])\/\d{4} (\d{2}):(\d{2}):(\d{2})$/;
+    
+    if (dateRegex.test(givenDate)) {
+      setFormattedDate(`Date valide: ${givenDate}`);
+      setDateDebut(givenDate)
+      setDateFin("")
+    } else {
+      setFormattedDate("Date invalide, veuillez respecter le format jj/mm/aaaa hh:mm:ss.");
+    }
+  };
   return (
     <div>
+      <div>
+      <label htmlFor="dateInput">Entrez une date (jj/mm/aaaa hh:mm:ss):</label>
+      <input
+        type="text"
+        id="dateInput"
+        value={givenDate}
+        onChange={handleDateChange}
+        placeholder="Ex: 06/05/2025 14:30:00"
+      />
+      <button onClick={handleSubmit}>Soumettre</button>
+      <p>{formattedDate}</p>
+    </div>
       <div id="visualizationQ3" style={{ width: '1000px' }}></div>
     </div>
   )
