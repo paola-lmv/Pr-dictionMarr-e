@@ -1,0 +1,337 @@
+[
+  {"Z0":0
+  },
+  {
+    "coefficientName": "M2",
+    "coefficientNum": 1,
+    "w": 28.984104,
+    "f": 1.017,
+    "vo+u": 194.25,
+    "A": 2.188,
+    "g": 234
+  },
+  {
+    "coefficientName": "S2",
+    "coefficientNum": 2,
+    "w": 30,
+    "f": 1.0000,
+    "vo+u": 0.0000,
+    "A": 0.42,
+    "g": 253.3
+  },
+  {
+    "coefficientName": "N2",
+    "coefficientNum": 3,
+    "w": 28.43973,
+    "f": 1.017,
+    "vo+u": 41.93,
+    "A": 0.509,
+    "g": 217.8
+  },
+  {
+    "coefficientName": "K1",
+    "coefficientNum": 4,
+    "w": 15.041069,
+    "f": 0.9602,
+    "vo+u": 18.51,
+    "A": 0.331,
+    "g": 104.3
+  },
+  {
+    "coefficientName": "M4",
+    "coefficientNum": 5,
+    "w": 57.96821,
+    "f": 1.0343,
+    "vo+u": 28.5,
+    "A": 0.082,
+    "g": 328.3
+  },
+  {
+    "coefficientName": "O1",
+    "coefficientNum": 6,
+    "w": 13.943035,
+    "f": 0.9349,
+    "vo+u": 171.619995,
+    "A": 0.171,
+    "g": 106.5
+  },
+  {
+    "coefficientName": "M6",
+    "coefficientNum": 7,
+    "w": 86.95232,
+    "f": 1.0519,
+    "vo+u": 222.75,
+    "A": 0.085,
+    "g": 76.4
+  },
+  {
+    "coefficientName": "MK3",
+    "coefficientNum": 8,
+    "w": 44.025173,
+    "f": 0.9765,
+    "vo+u": 212.759995,
+    "A": 0.026,
+    "g": 211.4
+  },
+  {
+    "coefficientName": "S4",
+    "coefficientNum": 9,
+    "w": 60,
+    "f": 1.0000,
+    "vo+u": 0.0000,
+    "A": 0.033,
+    "g": 78.8
+  },
+  {
+    "coefficientName": "MN4",
+    "coefficientNum": 10,
+    "w": 57.423832,
+    "f": 1.0343,
+    "vo+u": 236.179993,
+    "A": 0.039,
+    "g": 335.5
+  },
+  {
+    "coefficientName": "NU2",
+    "coefficientNum": 11,
+    "w": 28.512583,
+    "f": 1.017,
+    "vo+u": 178.910004,
+    "A": 0.085,
+    "g": 215.2
+  },
+  {
+    "coefficientName": "S6",
+    "coefficientNum": 12,
+    "w": 90,
+    "f": 1.0000,
+    "vo+u": 0.0000,
+    "A": 0,
+    "g": 0
+  },
+  {
+    "coefficientName": "MU2",
+    "coefficientNum": 13,
+    "w": 27.968208,
+    "f": 1.017,
+    "vo+u": 26.6,
+    "A": 0.069,
+    "g": 230.1
+  },
+  {
+    "coefficientName": "2N2",
+    "coefficientNum": 14,
+    "w": 27.895355,
+    "f": 1.017,
+    "vo+u": 249.619995,
+    "A": 0.066,
+    "g": 208.2
+  },
+  {
+    "coefficientName": "OO1",
+    "coefficientNum": 15,
+    "w": 16.139101,
+    "f": 0.7887,
+    "vo+u": 53.639999,
+    "A": 0.016,
+    "g": 139.4
+  },
+  {
+    "coefficientName": "LAM2",
+    "coefficientNum": 16,
+    "w": 29.455626,
+    "f": 1.017,
+    "vo+u": 29.59,
+    "A": 0.026,
+    "g": 237.7
+  },
+  {
+    "coefficientName": "S1",
+    "coefficientNum": 17,
+    "w": 15,
+    "f": 1.0000,
+    "vo+u": 180.0000,
+    "A": 0.043,
+    "g": 53
+  },
+  {
+    "coefficientName": "M1",
+    "coefficientNum": 18,
+    "w": 14.496694,
+    "f": 1.1232,
+    "vo+u": 231.309998,
+    "A": 0.01,
+    "g": 157.3
+  },
+  {
+    "coefficientName": "J1",
+    "coefficientNum": 19,
+    "w": 15.5854435,
+    "f": 0.9491,
+    "vo+u": 174.949997,
+    "A": 0.016,
+    "g": 133.3
+  },
+  {
+    "coefficientName": "MM",
+    "coefficientNum": 20,
+    "w": 0.5443747,
+    "f": 1.0577,
+    "vo+u": 152.320007,
+    "A": 0,
+    "g": 0
+  },
+  {
+    "coefficientName": "SSA",
+    "coefficientNum": 21,
+    "w": 0.0821373,
+    "f": "1,0000",
+    "vo+u": 200.130005,
+    "A": 0.098,
+    "g": 46.9
+  },
+  {
+    "coefficientName": "SA",
+    "coefficientNum": 22,
+    "w": 0.0410686,
+    "f": "1.0000",
+    "vo+u": 280.070007,
+    "A": 0.23,
+    "g": 129.6
+  },
+  {
+    "coefficientName": "MSF",
+    "coefficientNum": 23,
+    "w": 1.0158958,
+    "f": 1.017,
+    "vo+u": 165.75,
+    "A": 0,
+    "g": 0
+  },
+  {
+    "coefficientName": "MF",
+    "coefficientNum": 24,
+    "w": 1.0980331,
+    "f": 0.8592,
+    "vo+u": 31.01,
+    "A": 0,
+    "g": 0
+  },
+  {
+    "coefficientName": "RHO",
+    "coefficientNum": 25,
+    "w": 13.471515,
+    "f": 0.9349,
+    "vo+u": 156.279999,
+    "A": 0.007,
+    "g": 107.5
+  },
+  {
+    "coefficientName": "Q1",
+    "coefficientNum": 26,
+    "w": 13.398661,
+    "f": 0.9349,
+    "vo+u": 19.299999,
+    "A": 0.036,
+    "g": 123.7
+  },
+  {
+    "coefficientName": "T2",
+    "coefficientNum": 27,
+    "w": 29.958933,
+    "f": "1,0000",
+    "vo+u": 3.08,
+    "A": 0.036,
+    "g": 240.7
+  },
+  {
+    "coefficientName": "R2",
+    "coefficientNum": 28,
+    "w": 30.041067,
+    "f": 1.0000,
+    "vo+u": 176.919998,
+    "A": 0.003,
+    "g": 254.1
+  },
+  {
+    "coefficientName": "2Q1",
+    "coefficientNum": 29,
+    "w": 12.854286,
+    "f": 0.9349,
+    "vo+u": 226.990005,
+    "A": 0.003,
+    "g": 108.6
+  },
+  {
+    "coefficientName": "P1",
+    "coefficientNum": 30,
+    "w": 14.958931,
+    "f": 1.0000,
+    "vo+u": 349.929993,
+    "A": 0.102,
+    "g": 109.1
+  },
+  {
+    "coefficientName": "2SM2",
+    "coefficientNum": 31,
+    "w": 31.015896,
+    "f": 1.017,
+    "vo+u": 165.75,
+    "A": 0,
+    "g": 0
+  },
+  {
+    "coefficientName": "M3",
+    "coefficientNum": 32,
+    "w": 43.47616,
+    "f": 1.0257,
+    "vo+u": 291.369995,
+    "A": 0.033,
+    "g": 210.6
+  },
+  {
+    "coefficientName": "L2",
+    "coefficientNum": 33,
+    "w": 29.528479,
+    "f": 1.1647,
+    "vo+u": 157.820007,
+    "A": 0.082,
+    "g": 240.1
+  },
+  {
+    "coefficientName": "2MK3",
+    "coefficientNum": 34,
+    "w": 42.92714,
+    "f": 0.9931,
+    "vo+u": 9.99,
+    "A": 0.026,
+    "g": 194.6
+  },
+  {
+    "coefficientName": "K2",
+    "coefficientNum": 35,
+    "w": 30.082138,
+    "f": 0.8878,
+    "vo+u": 216.550003,
+    "A": 0.115,
+    "g": 253.4
+  },
+  {
+    "coefficientName": "M8",
+    "coefficientNum": 36,
+    "w": 115.93642,
+    "f": 1.0698,
+    "vo+u": 57.0000,
+    "A": 0.013,
+    "g": 107
+  },
+  {
+    "coefficientName": "MS4",
+    "coefficientNum": 37,
+    "w": 58.984104,
+    "f": 1.017,
+    "vo+u": 194.25,
+    "A": 0.049,
+    "g": 312.2
+  }
+]
