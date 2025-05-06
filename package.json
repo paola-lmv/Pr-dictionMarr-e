@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://paola-lmv.github.io/Pr-dictionMarr-e/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
